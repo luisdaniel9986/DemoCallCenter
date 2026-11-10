@@ -1,0 +1,15 @@
+{
+  "model": "Random Forest",
+  "test_rows": 2000,
+  "accuracy": 0.7825,
+  "precision": 0.7339130434782609,
+  "recall": 0.5994318181818182,
+  "f1": 0.6598905394839718,
+  "roc_auc": 0.8389532258347361,
+  "confusion_matrix": {
+    "TN": 1143,
+    "FP": 153,
+    "FN": 282,
+    "TP": 422
+  }
+}
